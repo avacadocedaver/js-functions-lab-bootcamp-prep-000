@@ -13,4 +13,4 @@ function holidayCountdown() {
 }
 var name = "Joe"
 var holiday = "Christmas"
-var days = 
+var days = 340
