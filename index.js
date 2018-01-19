@@ -1,5 +1,6 @@
 // write your code below!
 var name = "you"
+var days = 20
 function happyHolidays() {
   return "Happy holidays!"
 }
@@ -12,6 +13,5 @@ function happyHolidayTo() {
 }
 function holidayCountdown() {
    var holiday = "Mother's Day"
-  var days = "20"
   `It's ${days} days until ${holiday}!` 
 }
